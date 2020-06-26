@@ -1,0 +1,10 @@
+C:\Users\lab\Desktop\Modemy\Modemy\bin\Debug\Modemy.exe.config
+C:\Users\lab\Desktop\Modemy\Modemy\bin\Debug\Modemy.exe
+C:\Users\lab\Desktop\Modemy\Modemy\bin\Debug\Modemy.pdb
+C:\Users\lab\Desktop\Modemy\Modemy\obj\Debug\Modemy.csprojAssemblyReference.cache
+C:\Users\lab\Desktop\Modemy\Modemy\obj\Debug\Modemy.Form1.resources
+C:\Users\lab\Desktop\Modemy\Modemy\obj\Debug\Modemy.Properties.Resources.resources
+C:\Users\lab\Desktop\Modemy\Modemy\obj\Debug\Modemy.csproj.GenerateResource.cache
+C:\Users\lab\Desktop\Modemy\Modemy\obj\Debug\Modemy.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\Modemy\Modemy\obj\Debug\Modemy.exe
+C:\Users\lab\Desktop\Modemy\Modemy\obj\Debug\Modemy.pdb

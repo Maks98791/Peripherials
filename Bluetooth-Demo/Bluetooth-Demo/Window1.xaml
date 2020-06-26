@@ -1,0 +1,19 @@
+﻿<Window x:Class="Bluetooth_Demo.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Bluetooth Demo" Height="259" Width="685" Icon="/Bluetooth-Demo;component/Bluetooth-Icon.ico" ResizeMode="NoResize">
+    <Grid>
+        <Button Margin="251,10,270,0" Name="btn_find" Height="23" VerticalAlignment="Top" Click="btn_find_Click">Znajdź urządzenia bluetooth</Button>
+        <ProgressBar Height="26" Margin="251,182,15,0" Name="pb" VerticalAlignment="Top" IsIndeterminate="True" Visibility="Hidden" />
+        <ListBox SelectionChanged="device_list_SelectionChanged" Margin="13,10,0,0" Name="device_list" HorizontalAlignment="Left" Width="224" Height="198" VerticalAlignment="Top" />
+        <Label Height="28" Margin="251,51,258,0" Name="label1" VerticalAlignment="Top">Nazwa urządzenia:</Label>
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,85,175,0" Name="label2" VerticalAlignment="Top" Width="73">Połączony:</Label>
+        <Label Height="28" Margin="251,85,258,0" Name="label3" VerticalAlignment="Top">Autoryzowany:</Label>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,54,24,0" Name="txt_devicename" VerticalAlignment="Top" Width="288" IsReadOnly="True" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,87,101,0" Name="txt_connected" VerticalAlignment="Top" Width="66" IsReadOnly="True" />
+        <TextBox HorizontalAlignment="Right" Margin="0,87,258,0" Name="txt_authenticated" Width="68" Height="26" VerticalAlignment="Top" IsReadOnly="True" />
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,10,188,0" Name="btn_browse" VerticalAlignment="Top" Width="75" Click="btn_browse_Click">Szukaj pliku</Button>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,10,101,0" Name="btn_send" VerticalAlignment="Top" Width="75" Click="btn_send_Click" IsEnabled="False">Wyślij plik</Button>
+        <Button Content="Paruj" Margin="589,10,15,0" VerticalAlignment="Top" Name="btn_pair" Click="btn_pair_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,131 @@
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\USBCam.exe.config
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\USBCam.exe
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\USBCam.pdb
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.dll
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.Imaging.dll
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.Math.dll
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.Video.dll
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.xml
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.Imaging.xml
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.Math.xml
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.Video.xml
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\obj\Debug\USBCam.csprojResolveAssemblyReference.cache
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\obj\Debug\USBCam.MainWindow.resources
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\obj\Debug\USBCam.Properties.Resources.resources
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\obj\Debug\USBCam.csproj.GenerateResource.Cache
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\obj\Debug\USBCam.exe
+C:\Users\lab\Desktop\USBCam\USBCam\USBCam\obj\Debug\USBCam.pdb
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\avcodec-57.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\avdevice-57.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\avfilter-6.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\avformat-57.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\avutil-55.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\postproc-54.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\swresample-2.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\swscale-4.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.dll.config
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\USBCam.exe.config
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\USBCam.exe
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\USBCam.pdb
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.Video.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.Video.FFMPEG.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.Video.VFW.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.Imaging.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.Math.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.Video.dll
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.Video.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.Video.FFMPEG.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\Accord.Video.VFW.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.Imaging.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.Math.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.Video.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\bin\Debug\AForge.Video.DirectShow.xml
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\obj\Debug\USBCam.csprojResolveAssemblyReference.cache
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\obj\Debug\USBCam.MainWindow.resources
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\obj\Debug\USBCam.Properties.Resources.resources
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\obj\Debug\USBCam.csproj.GenerateResource.Cache
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\obj\Debug\USBCam.exe
+D:\Studia\5 semestr\Urządzenia Peryferyjne\camera_moja\USBCam\USBCam\USBCam\obj\Debug\USBCam.pdb
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\avcodec-57.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\avdevice-57.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\avfilter-6.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\avformat-57.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\avutil-55.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\postproc-54.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\swresample-2.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\swscale-4.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.dll.config
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\USBCam.exe.config
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\USBCam.exe
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\USBCam.pdb
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.VFW.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.Imaging.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.Math.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.Video.dll
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.VFW.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.Imaging.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.Math.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.Video.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\obj\Debug\USBCam.csprojAssemblyReference.cache
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\obj\Debug\USBCam.MainWindow.resources
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\obj\Debug\USBCam.Properties.Resources.resources
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\obj\Debug\USBCam.csproj.GenerateResource.cache
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\obj\Debug\USBCam.csproj.CoreCompileInputs.cache
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\obj\Debug\USBCam.csproj.CopyComplete
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\obj\Debug\USBCam.exe
+C:\Users\wojtasiq\Desktop\USB Camera\USBCam\USBCam\obj\Debug\USBCam.pdb
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\avcodec-57.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\avdevice-57.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\avfilter-6.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\avformat-57.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\avutil-55.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\postproc-54.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\swresample-2.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\swscale-4.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.dll.config
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\USBCam.exe.config
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\USBCam.exe
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\USBCam.pdb
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.VFW.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.Imaging.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.Math.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.Video.dll
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\Accord.Video.VFW.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.Imaging.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.Math.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.Video.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\obj\Debug\USBCam.csprojAssemblyReference.cache
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\obj\Debug\USBCam.MainWindow.resources
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\obj\Debug\USBCam.Properties.Resources.resources
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\obj\Debug\USBCam.csproj.GenerateResource.cache
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\obj\Debug\USBCam.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\obj\Debug\USBCam.csproj.CopyComplete
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\obj\Debug\USBCam.exe
+C:\Users\Maks\Desktop\USB Camera\USB Camera\USBCam\USBCam\obj\Debug\USBCam.pdb
